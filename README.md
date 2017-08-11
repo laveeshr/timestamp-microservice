@@ -13,3 +13,8 @@ localhost:3000/1450137600
 
 ## Example output:
 { "unix": 1450137600, "natural": "December 15, 2015" }
+
+
+## To Run
+- npm install
+- npm start
